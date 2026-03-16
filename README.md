@@ -1,16 +1,20 @@
-## Hi there 👋
+Hi, I'm Kowshak Shaj 👋
 
-<!--
-**kowshakshaj4/Kowshakshaj4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI & Machine Learning student from Kerala, India.  
+Interested in AI & ML, intelligent IoT systems.
 
-Here are some ideas to get you started:
+## 🚀 Projects
+- **Smart Edible Expiry Tag for Food (AI + IoT + Biosensors)**  
+  Intelligent packaging concept that predicts food spoilage using sensor data and machine learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Currently Learning
+- Machine Learning fundamentals
+- Python for AI
+- IoT with ESP32 / Arduino
+- Data analysis
+
+## 🔧 Tech Stack
+- Python
+- Arduino / ESP32
+- Git & GitHub
+- Basic Machine Learning.
