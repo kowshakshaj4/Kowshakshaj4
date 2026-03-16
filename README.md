@@ -17,4 +17,4 @@ Interested in AI & ML, intelligent IoT systems.
 - Python
 - Arduino / ESP32
 - Git & GitHub
-- Basic Machine Learning.
+- Machine Learning(Beginner)
